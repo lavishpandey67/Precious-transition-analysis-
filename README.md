@@ -13,18 +13,26 @@ Data consolidation, formula-driven financial modeling, and strategic reporting o
 
 ## Dashboard Preview
 
+
+
 ![Dashboard](assets/dashboard-preview.jpg)
+
+
 
 ## Key Findings Preview
 
+
+
 ![Key Findings](assets/key-findings-preview.jpg)
+
+
 
 ## What's Inside
 
 | File | Description |
 |---|---|
 | `Precious_Metals_Transaction_Analytics.xlsx` | Full data model — Dashboard, Transactions, Transaction Summary, Price Bucket Analysis, Chronological Timeline. All statistics are formula-driven (SUMIF/COUNTIF/AVERAGEIF), not hardcoded. |
-| `Precious_Metals_Transaction_Analytics_Presentation.pdf` | 6-slide strategic presentation — Objective, Approach, Key Findings, Strategic Recommendations. [Click to preview directly in GitHub.] |
+| `Precious_Metals_Transaction_Analytics_Presentation.pdf` | 6-slide strategic presentation — Objective, Approach, Key Findings, Strategic Recommendations. |
 
 ## Approach
 
